@@ -1,0 +1,1 @@
+import{a as o,d as c,o as t,aA as n}from"./entry.9c0e72e9.js";import{_ as r}from"./_plugin-vue_export-helper.a1a6add7.js";const s={},_={class:"h-screen flex flex-col flex-grow bg-neutral-900"};function a(l,f){const e=n;return t(),o("div",_,[c(e)])}const d=r(s,[["render",a]]);export{d as default};

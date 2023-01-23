@@ -1,0 +1,1 @@
+import{ay as r,D as i,az as o,n as s}from"./entry.9c0e72e9.js";const l=r(async(n,u)=>{let t,a,e=i();if(e.initialized||([t,a]=o(()=>e.updateUser()),await t,a()),!e.loggedIn)return s("/login")});export{l as default};
